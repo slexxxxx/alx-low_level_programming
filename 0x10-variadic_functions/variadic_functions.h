@@ -8,5 +8,3 @@ void print_all(const char * const format, ...);
 
 
 #endif
-Footer
-© 2023 GitHub, Inc.
